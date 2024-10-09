@@ -11,6 +11,7 @@ Welcome to my GitHub profile! I'm a passionate learner diving deep into Python, 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
 ---
 
 ## 🎯 What I’m Focused On
