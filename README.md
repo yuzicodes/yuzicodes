@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a motivated developer, currently learning and 
 
 ## 📊 GitHub Stats
 
-![Aalim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuzicodes&show_icons=true&theme=transparent)
+![Aalim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuzicodes&show_icons=true&theme=radical)
 
 ---
 
