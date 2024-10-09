@@ -37,5 +37,4 @@ Welcome to my GitHub profile! I'm a passionate learner diving deep into Python, 
 ## 🧑‍💻 Let's Connect!
 
 [![Twitter](https://img.shields.io/twitter/follow/yuzicodes?style=social)](https://x.com/yuzicodes)
-
-Feel free to explore my repositories and get in touch if you'd like to collaborate!
+- Feel free to explore my repositories and get in touch if you'd like to collaborate!
