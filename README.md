@@ -1,8 +1,8 @@
 # Hi there, I'm Aalim Sheikh 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yuzicodes&color=blueviolet&style=for-the-badge)
-
 Welcome to my GitHub profile! I'm a motivated developer, currently learning and exploring various aspects of programming and web development. Here’s a bit more about me:
+
+![Profile Views](https://komarev.com/ghpvc/?username=yuzicodes&color=blueviolet&style=for-the-badge)
 
 ---
 
