@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate learner diving deep into Python, 
 
 ## 📊 GitHub Stats
 
-![Yuzi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuzicodes&show_icons=true&theme=radical)
+![Yuzi's GitHub Stats]()
 
 ---
 
