@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Aalim Sheikh
+# Hey there! 👋 I'm Yuzi
 
 Welcome to my GitHub profile! I'm a passionate learner diving deep into Python, JavaScript, HTML, and CSS. I enjoy building things that solve real-world problems while growing my coding skills.
 
@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate learner diving deep into Python, 
 
 ## 📊 GitHub Stats
 
-![Aalim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuzicodes&show_icons=true&theme=radical)
+![Yuzi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuzicodes&show_icons=true&theme=radical)
 
 ---
 
